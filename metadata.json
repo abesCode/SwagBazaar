@@ -1,0 +1,11 @@
+{
+    "name": "SwagFlipper",
+    "author": "Nuke",
+    "entry": "index.js",
+    "requires": [
+      "Vigilance",
+      "requestV2"
+    ],
+    "version": "0.0.1",
+    "description": "Hires a cat to bazaar flip for you"
+  }

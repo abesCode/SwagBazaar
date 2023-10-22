@@ -1,0 +1,18 @@
+
+[general]
+	auto_island = true
+
+	[general.qol]
+		auto_island = false
+		time_between_placing_orders = ""
+		chat_cleaner = true
+
+[bazaar_flipper]
+	bazaar_flipper = true
+	time_between_placing_orders = ""
+	"order_fill/sell_alerts" = true
+
+	[bazaar_flipper.qol]
+		discord_alerts_url = "https://discord.com/api/webhooks/1068974047850934313/En0LjpDLhMO55v6I8C_ZYgb5BxIBoNuESW21bs6SHmAFuOb1M2xF94Wdkc5RMx1t7cxg"
+		discord_alerts_id = ""
+
